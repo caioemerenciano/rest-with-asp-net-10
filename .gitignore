@@ -55,3 +55,4 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/RestWithASPNET10_ScaffoldViaVisualStudio/RestWithASPNET10/.vs
